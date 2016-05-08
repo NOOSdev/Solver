@@ -1,0 +1,8 @@
+D:\Work\Solver\Solver\bin\Release\Solver.exe
+D:\Work\Solver\Solver\bin\Release\Solver.pdb
+D:\Work\Solver\Solver\obj\Release\ResolveAssemblyReference.cache
+D:\Work\Solver\Solver\obj\Release\Solver.Form1.resources
+D:\Work\Solver\Solver\obj\Release\Solver.Properties.Resources.resources
+D:\Work\Solver\Solver\obj\Release\Solver.csproj.GenerateResource.Cache
+D:\Work\Solver\Solver\obj\Release\Solver.exe
+D:\Work\Solver\Solver\obj\Release\Solver.pdb
